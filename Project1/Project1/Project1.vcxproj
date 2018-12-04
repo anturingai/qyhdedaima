@@ -116,14 +116,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="add.h" />
-    <ClInclude Include="creat.h" />
+    <ClInclude Include="head.h" />
+    <ClInclude Include="print.h" />
     <ClInclude Include="name.h" />
     <ClInclude Include="result.h" />
     <ClInclude Include="sub.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="add.cpp" />
-    <ClCompile Include="creat.cpp" />
+    <ClCompile Include="print.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="result.cpp" />
     <ClCompile Include="sub.cpp" />

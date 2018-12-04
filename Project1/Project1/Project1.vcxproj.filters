@@ -15,19 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="add.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="sub.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="creat.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="result.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="name.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="print.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="add.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -38,13 +41,13 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="creat.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="sub.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="result.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="print.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
