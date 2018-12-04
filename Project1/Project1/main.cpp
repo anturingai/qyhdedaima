@@ -11,7 +11,7 @@ void main()
 	for (int i = 0; i < a + 2; i++)
 		p[i] = new int[a + 2]; //开辟列
 
-	cout << "请输入数据：";
+	cout << "请输入数据：shenzhiwei";
 	for (int i = 0; i < a; i++) {
 		for (int j = 0; j < a; j++) {
 			cin >> p[i][j];
