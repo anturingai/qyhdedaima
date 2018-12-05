@@ -7,6 +7,7 @@
 int a = 9;
 void main()
 {
+	cout << "shenzhiwei"<<endl;
 	p = new int*[a + 2]; //开辟行
 	for (int i = 0; i < a + 2; i++)
 		p[i] = new int[a + 2]; //开辟列
